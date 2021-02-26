@@ -46,3 +46,5 @@ recognition.addEventListener('end', () => recognition.start());
 
 //To start speech to text use start method and allow page to use mic
 recognition.start();
+
+//side note...had to run git branch -m "main"
